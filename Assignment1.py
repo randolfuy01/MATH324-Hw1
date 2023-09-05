@@ -2,6 +2,7 @@ import csv
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 data = pd.read_csv('all_seasons.csv') 
 print(data['player_height'].values) 
@@ -16,4 +17,8 @@ print(height_df.describe())
 # BOXPLOT
 fig = plt.figure(figsize = (10, 7))
 plt.boxplot(heights_list)
+plt.show()
+
+# Density Histogram
+sns.disptlot(a=height_df)
 plt.show()

@@ -1,13 +1,14 @@
 # Assignment1CSC324
 
-Using aninteresting numberical data of your own which is not too small, find the following unit of measurements
+Using an interesting numberical data of your own which is not too small, find the following unit of measurements
 mean (complete)
 five number summary (complete)
 boxplot (complete)
+
 Based on the above comment on the:
 Center of the data, Spread of the data
 Shape of the data
-Outlirers in the data
+Outliers in the data
 Is the data skewed? If yes, explain why. If no, explaion why not.
 Find a density histogram and mention the breaks used.
 
